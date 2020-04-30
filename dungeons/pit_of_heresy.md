@@ -29,7 +29,7 @@ Credits: [https://www.reddit.com/r/raidsecrets/comments/dpjs31/tunnels_of_despai
 
 ## The Harrow
 
-![Harrow map](/assets/img/pit_of_heresy_4.png)
+![Harrow map](/assets/img/pit_of_heresy_3.png)
 
 Credits: [https://www.reddit.com/r/DestinyTheGame/comments/dpkc4c/here_is_a_map_i_made_of_the_the_harrow_encounter/](https://www.reddit.com/r/DestinyTheGame/comments/dpkc4c/here_is_a_map_i_made_of_the_the_harrow_encounter/)
 {:.no-print}
