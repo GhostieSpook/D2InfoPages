@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Zero Hour (Normal and Heroic)
+parent: Quest Guides
+nav_order: 2
 ---
 I'll start off with Credit where it is due: All the solutions and sources used in this post either comes from the RaidSecrets community (Discords/Reddit/users) or clans like Math Class and Redeem. In a few cases, Credit is due to a few users and as much as possible I try to list that, but if I miss someone, I'm sorry and please do tell me so i can edit it in
 
