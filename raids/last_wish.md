@@ -8,6 +8,23 @@ nav_order: 2
 ## All Wishes for the Wall of Wishes
 Hidden at the start of the raid is a small room with 21 buttons, 20 on the wall and one on the ground. By entering the correct pattern and standing on the button, players can make wishes that each have a different reward or effect on the game.
 
+(Click on a link to fast travel to the wish.)
+- [Wish 1: Gives an Ethereal Key](https://ghostiespook.github.io/raids/last_wish/#first-wish-wish-to-feed-an-addiction)
+- [Wish 2: Spawns a chest between Morgeth and the Vault](https://ghostiespook.github.io/raids/last_wish/#second-wish-a-wish-for-material-validation)
+- [Wish 3: Gives an Emblem](https://ghostiespook.github.io/raids/last_wish/#third-wish-a-wish-for-others-to-celebrate-your-success)
+- [Wish 4: Teleport to Shuro Chi, the Corrupted](https://ghostiespook.github.io/raids/last_wish/#fourth-wish-a-wish-to-look-athletic-and-elegant)
+- [Wish 5: Teleport to Morgeth, the Spirekeeper](https://ghostiespook.github.io/raids/last_wish/#fifth-wish-a-wish-for-a-promising-future)
+- [Wish 6: Teleport to the Vault](https://ghostiespook.github.io/raids/last_wish/#fifth-wish-a-wish-for-a-promising-future)
+- [Wish 7: Teleport to Riven of a Thousand Voices](https://ghostiespook.github.io/raids/last_wish/#seventh-wish-a-wish-to-help-a-friend-in-need)
+- [Wish 8: Plays song, Hope for the Future](https://ghostiespook.github.io/raids/last_wish/#eighth-wish-a-wish-to-stay-here-forever)
+- [Wish 9: Failsafe Easter Egg dialogue](https://ghostiespook.github.io/raids/last_wish/#ninth-wish-a-wish-to-stay-here-forever)
+- [Wish 10: Drifter Easter Egg dialogue](https://ghostiespook.github.io/raids/last_wish/#tenth-wish-a-wish-to-stay-here-forever)
+- [Wish 11: Adds Grunt Birthday Party effect to headshots](https://ghostiespook.github.io/raids/last_wish/#eleventh-wish-a-wish-to-stay-here-forever)
+- [Wish 12: Adds effect around player's head](https://ghostiespook.github.io/raids/last_wish/#twelfth-wish-a-wish-to-open-your-mind-to-new-ideas)
+- [Wish 13: Adds Extinguish effect, if one player dies, the Fireteam goes to Orbit and the raid resets](https://ghostiespook.github.io/raids/last_wish/#thirteenth-wish-a-wish-for-the-means-to-feed-an-addiction)
+- [Wish 14: Spawns several Corrupted Eggs throughout the raid](https://ghostiespook.github.io/raids/last_wish/#fourteenth-wish-a-wish-for-love-and-support)
+- [Wish 15: Pending discovery...](https://ghostiespook.github.io/raids/last_wish/#fifteenth-wish-this-one-you-shall-cherish--riven-of-a-thousand-voices)
+
 There are sixteen different images that can be cycled through on each of the buttons, starting with four fish symbols, then four snake symbols, four dragon symbols, and then four bird symbols.
 
 * Wishes can be made as a solo player
