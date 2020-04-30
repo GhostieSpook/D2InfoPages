@@ -21,4 +21,4 @@ More wishes are still being found by the Destiny 2 community. A large effort is 
 ### First Wish: Wish to Feed an Addiction
 
 Wish 1 grants an Ethereal Key.
-![Wish 1](assets/img/wish_1.png)
+![Wish 1](/assets/img/wish_1.png)
