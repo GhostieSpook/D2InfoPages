@@ -6,13 +6,13 @@ has_children: false
 permalink: /staff
 ---
 * **Founders:**
-Gh0st1eSp00k
+Gh0st1eSp00k\
 TheKingofats420
 
 * **Clan Admins:**
-TheDevilsFlex
-XV_RONIN
-Gem_Thief303
-SilentKiller620
-doucher506
-Sentry734
+TheDevilsFlex\
+XV_RONIN\
+Gem_Thief303\
+SilentKiller620\
+doucher506\
+Sentry734\
