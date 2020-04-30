@@ -5,5 +5,5 @@ nav_order: 10
 permalink: /resources
 ---
 
-## Discord Links
-* [Discord Terms of Service](https://discordapp.com/terms)
+## Credits/Source Links
+* [/r/RaidSecrets](https://www.reddit.com/r/raidsecrets/)
