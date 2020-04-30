@@ -5,11 +5,11 @@ nav_order: 9
 has_children: false
 permalink: /staff
 ---
-* **Founders:**
+* **Founders:**\
 Gh0st1eSp00k\
 TheKingofats420
 
-* **Clan Admins:**
+* **Clan Admins:**\
 TheDevilsFlex\
 XV_RONIN\
 Gem_Thief303\
