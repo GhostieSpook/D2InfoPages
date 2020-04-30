@@ -2,7 +2,7 @@
 layout: default
 title: Last Wish
 parent: Raid Guides
-nav_order: 2
+nav_order: 6
 ---
 
 ## All Wishes for the Wall of Wishes
