@@ -1,0 +1,33 @@
+.wish-table {
+	margin: 2pt;
+	width: max-content;
+	font-size: 16pt;
+	display: block;
+	td {
+		padding: 0;
+		width: 2em;
+		height: 2em;
+		vertical-align: middle;
+		text-align: center;
+	}
+
+	tr {
+		background-color: white !important;
+	}
+
+	img {
+		height: 1.9em;
+	}
+}
+
+td.fitwidth {
+    width: min-content;
+}
+
+td.stretch {
+	max-width: 100%;
+}
+
+td.noborder {
+	border: none !important;
+}
