@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Leviathan
+parent: Raid Guides
+nav_order: 1
 ---
 
 ## The Underbelly
