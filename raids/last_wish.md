@@ -22,3 +22,68 @@ More wishes are still being found by the Destiny 2 community. A large effort is 
 
 Wish 1 grants an Ethereal Key.
 ![Wish 1](/assets/img/wish_1.png)
+
+### Second Wish: A wish for material validation
+
+Wish 2 causes a chest to spawn between the Morgeth, the Spirekeeper fight and the Vault that can only be opened with a Glittering Key.
+![Wish 2](/assets/img/wish_2.png)
+
+### Third Wish: A wish for others to celebrate your success
+
+Wish 3 unlocks an Emblem.
+![Wish 3](/assets/img/wish_3.png)
+
+### Fourth Wish: A wish to look athletic and elegant
+
+Wish 4 will immediately wipe the Fireteam and teleport them to the beginning of the fight against Shuro Chi, the Corrupted.
+![Wish 4](/assets/img/wish_4.png)
+
+### Fifth Wish: A wish for a promising future
+
+Wish 5 will immediately wipe the Fireteam and teleport them to the beginning of the Morgeth, the Spirekeeper, fight.
+![Wish 5](/assets/img/wish_5.png)
+
+### Sixth Wish: A wish to move the hands of time
+
+Wish 6 will immediately wipe the Fireteam and teleport them to the beginning of the Vault encounter.
+![Wish 6](/assets/img/wish_6.png)
+
+### Seventh Wish: A wish to help a friend in need
+
+Wish 7 will immediately wipe the Fireteam and teleport them to the beginning of the Riven of a Thousand Voices encounter.
+![Wish 7](/assets/img/wish_7.png)
+
+### Eighth Wish: A wish to stay here forever
+
+Wish 8 will play the song, Hope for the Future.
+![Wish 8](/assets/img/wish_8.png)
+
+### Ninth Wish: A wish to stay here forever
+
+Wish 9 activates a piece of dialogue from Failsafe, who then speaks throughout the raid.
+![Wish 9](/assets/img/wish_9.png)
+
+### Tenth Wish: A wish to stay here forever
+
+Wish 10 adds Drifter dialogue to the raid.
+![Wish 10](/assets/img/wish_10.png)
+
+### Eleventh Wish: A wish to stay here forever
+
+Wish 11 adds an explosive effect to headshot kills, similar to the Grunt Birthday Party skull from Halo 2.
+![Wish 11](/assets/img/wish_11.png)
+### Twelfth Wish: A wish to open your mind to new ideas
+
+Wish 12 adds an effect around the player's head.
+![Wish 12](/assets/img/wish_12.png)
+### Thirteenth Wish: A wish for the means to feed an addiction
+
+Wish 13 enables Extinguish, where if one player dies, the entire Fireteam goes to Orbit and the raid will reset.
+![Wish 13](/assets/img/wish_13.png)
+### Fourteenth Wish: A wish for love and support
+
+Wish 14 spawns several Corrupted Eggs throughout the raid.
+![Wish 14](/assets/img/wish_14.png)
+### Fifteenth Wish: “This one you shall cherish.” – Riven of a Thousand Voices
+
+Pending…
