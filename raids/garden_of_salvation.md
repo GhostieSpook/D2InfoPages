@@ -236,7 +236,8 @@ If you don't, you should be seeing something like this:
 
 Here's a video guide following a slightly different, safer route.
 
-![![Secret Chest #2(http://img.youtube.com/vi/YsqnlK1_i54/0.jpg)](http://www.youtube.com/watch?v=YsqnlK1_i54 "Destiny 2 - Garden of Salvation 2nd secret raid chest")
+[![![Secret Chest #2](http://img.youtube.com/vi/YsqnlK1_i54/0.jpg)](http://www.youtube.com/watch?v=YsqnlK1_i54 "Destiny 2 - Garden of Salvation 2nd secret raid chest")
+
 
 Follow all the way up and you'll find your new wallpaper... after you kill all the Harpies, of course. Follow to the right into the cave marked below:
 
