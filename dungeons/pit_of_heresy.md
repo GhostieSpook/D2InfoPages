@@ -8,11 +8,11 @@ nav_order: 1
 <div style="page-break-inside:avoid" markdown="1">
 
 **Fast travel area:**
-[First Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#first-encounter---necropolis)
-[Second Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#second-encounter---tunnels-of-despair)
-[Third Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#third-encounter)
-[Fourth Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#fourth-encounter---the-harrow)
-[Boss Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#final-phase---boss)
+- [First Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#first-encounter---necropolis)
+- [Second Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#second-encounter---tunnels-of-despair)
+- [Third Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#third-encounter)
+- [Fourth Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#fourth-encounter---the-harrow)
+- [Boss Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#final-phase---boss)
 
 </div>
 <div style="page-break-inside:avoid" markdown="1">
