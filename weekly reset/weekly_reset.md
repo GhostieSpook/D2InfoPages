@@ -27,6 +27,9 @@ Mayhem | Showdown
 
 ### Nightfalls
 **Ordeal** - The Arms Dealer
+
 [Impact Velocity](https://www.bungie.net/common/destiny2_content/screenshots/2757144093.jpg) - Exodus Crash
+
 [The Long Goodbye](https://www.bungie.net/common/destiny2_content/screenshots/2154059444.jpg) - The Insight Terminus
+
 [Mindbender's Ambition](https://www.bungie.net/common/destiny2_content/screenshots/4117693024.jpg) - The Hollowed Lair
