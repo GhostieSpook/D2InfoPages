@@ -18,7 +18,7 @@ Welcome to the Vault of Grass!
 The Vault of Grass, sometimes called Garden of Salvation, is a new raid that's been added in Shadowkeep. The whole thing is just a glorified wallpaper generator and while the mechanics aren't hard, they are very complex and will require a lot of coordination to get right. Make sure all 6 members of your fireteam have voice comms and are able to properly communicate.
 
 This guide covers all secret chests, but does not cover the steps to get the Divinity. You can find a guide on how to get it here:
-<iframe width="685" height="385" src="https://www.youtube.com/embed/2IQ6M43gEus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Divinity](http://img.youtube.com/vi/2IQ6M43gEus/0.jpg)](http://www.youtube.com/watch?v=2IQ6M43gEus "Destiny 2 Shadowkeep: How to Get Divinity - Raid Exotic Trace Rifle")
 
 Corrections
 
