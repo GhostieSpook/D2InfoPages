@@ -7,6 +7,16 @@ nav_order: 1
 
 <div style="page-break-inside:avoid" markdown="1">
 
+__**Fast travel area:**__
+[First Encounter]()
+[Second Encounter]()
+[Third Encounter]()
+[Fourth Encounter]()
+[Boss Encounter]()
+
+</div>
+<div style="page-break-inside:avoid" markdown="1">
+
 ## Necropolis - First encounter
 
 The first encounter is all about matching the correct runes and utilising a relic to defeat enemies with unique interactions. There are several towers built in to the face of the mountain in the first area. Each tower has a Hive rune on top that's used to navigate this stage. 
