@@ -12,11 +12,11 @@ nav_order: 7
 - [Loadouts](https://ghostiespook.github.io/raids/garden_of_salvation/#loadouts)
 - [First Encounter](https://ghostiespook.github.io/raids/garden_of_salvation/#first-encounter-escape-the-consacrated-mind)
 - [Secret Chest #1](https://ghostiespook.github.io/raids/garden_of_salvation/#optional-secret-chest-1)
-- [Second Encounter]()
-- [Third Encounter]()
-- [Secret Chest #2]()
-- [(1/2) - Fourth Encounter]()
-- [(2/2) - Fourth Encounter]()
+- [Second Encounter](https://ghostiespook.github.io/raids/garden_of_salvation/#second-encounter-lure-out-the-consacrated-mind)
+- [Third Encounter](https://ghostiespook.github.io/raids/garden_of_salvation/#third-encounter-slay-the-consacrated-mind-sol-inherent)
+- [Secret Chest #2](https://ghostiespook.github.io/raids/garden_of_salvation/#optional-secret-chest-2)
+- [(1/2) - Fourth Encounter](https://ghostiespook.github.io/raids/garden_of_salvation/#12---fourth-encounter-slay-the-sanctified-mind-sol-inherent)
+- [(2/2) - Fourth Encounter](https://ghostiespook.github.io/raids/garden_of_salvation/#22---fourth-encounter-strategy)
 
 ![garden_of_salvation](/assets/img/garden_of_salvation.jpg)
 ### Introduction
@@ -236,8 +236,7 @@ If you don't, you should be seeing something like this:
 
 Here's a video guide following a slightly different, safer route.
 
-[![![Secret Chest #2](http://img.youtube.com/vi/YsqnlK1_i54/0.jpg)](http://www.youtube.com/watch?v=YsqnlK1_i54 "Destiny 2 - Garden of Salvation 2nd secret raid chest")
-
+[![Secret Chest #2](http://img.youtube.com/vi/YsqnlK1_i54/0.jpg)](http://www.youtube.com/watch?v=YsqnlK1_i54 "Destiny 2 - Garden of Salvation 2nd secret raid chest")
 
 Follow all the way up and you'll find your new wallpaper... after you kill all the Harpies, of course. Follow to the right into the cave marked below:
 
