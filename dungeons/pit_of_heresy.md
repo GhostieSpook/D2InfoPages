@@ -8,15 +8,10 @@ nav_order: 1
 <div style="page-break-inside:avoid" markdown="1">
 
 __**Fast travel area:**__
-
 [First Encounter]()
-
 [Second Encounter]()
-
 [Third Encounter]()
-
 [Fourth Encounter]()
-
 [Boss Encounter]()
 
 </div>
