@@ -6,7 +6,7 @@ permalink: /resources
 ---
 
 ## Valuble Websites
-* [DIM](https://app.destinyitemmanager.com/)
+* [DIM - Destiny Item Manager](https://app.destinyitemmanager.com/)
 * [Braytech](https://braytech.org)
 * [The Director](https://lowlidev.com.au/destiny/maps/director)
 
