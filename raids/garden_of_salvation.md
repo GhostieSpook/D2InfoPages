@@ -15,6 +15,8 @@ nav_order: 7
 - [Second Encounter]()
 - [Third Encounter]()
 - [Secret Chest #2]()
+- [(1/2) - Fourth Encounter]()
+- [(2/2) - Fourth Encounter]()
 
 ![garden_of_salvation](/assets/img/garden_of_salvation.jpg)
 ### Introduction
