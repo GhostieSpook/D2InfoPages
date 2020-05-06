@@ -26,7 +26,7 @@ Mayhem | Showdown
 ![Shotgun](/assets/img/Shotgun.png) ![](/assets/img/SubmachineGun.png) ![](/assets/img/Sniper.png)
 
 ### Nightfalls
-![](/assets/img/NightFallOrdeal.png) Ordeal - The Arms Dealer
-![](/assets/img/Exotic.png) Impact Velocity - Exodus Crash
-![](/assets/img/Legendary.png) The Long Goodbye - The Insight Terminus
-![](/assets/img/Legendary.png) Mindbender's Ambition - The Hollowed Lair
+![Ordeal](/assets/img/NightFallOrdeal.png) **Ordeal** - The Arms Dealer
+![Exotic](/assets/img/Exotic.png) Impact Velocity - Exodus Crash
+![Legendary](/assets/img/Legendary.png) The Long Goodbye - The Insight Terminus
+![Legendary](/assets/img/Legendary.png) Mindbender's Ambition - The Hollowed Lair
