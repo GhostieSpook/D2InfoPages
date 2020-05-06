@@ -5,14 +5,28 @@ nav_order: 2
 has_children: false
 permalink: /weekly_reset
 ---
-* **Founders:**
-Gh0st1eSp00k
-TheKingofats420
+## Weekly Rotations
 
-* **Clan Admins:**
-TheDevilsFlex
-XV_RONIN
-Gem_Thief303
-SilentKiller620
-doucher506
-Sentry734
+### FlashPoint
+Mercury
+
+### Dreaming City Curse
+Week 3
+
+### Ascendant Challenge
+Harbinger's Seclude
+
+### Leviathan Order
+![Baths](/assets/img/Baths.png) ![Dog](/assets/img/Dog.png) ![Gauntlet](/assets/img/Gauntlet.png) ![Throne](/assets/img/Throne.png)
+
+### Crucible Playlists
+Mayhem | Showdown
+
+### Escalation Protocol
+![Shotgun](/assets/img/Shotgun.png) ![](/assets/img/SubmachineGun.png) ![](/assets/img/Sniper.png)
+
+### Nightfalls
+![](/assets/img/NightFallOrdeal.png) Ordeal - The Arms Dealer
+![](/assets/img/Exotic.png) Impact Velocity - Exodus Crash
+![](/assets/img/Legendary.png) The Long Goodbye - The Insight Terminus
+![](/assets/img/Legendary.png) Mindbender's Ambition - The Hollowed Lair
