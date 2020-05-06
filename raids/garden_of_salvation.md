@@ -12,6 +12,9 @@ nav_order: 7
 - [Loadouts](https://ghostiespook.github.io/raids/garden_of_salvation/#loadouts)
 - [First Encounter](https://ghostiespook.github.io/raids/garden_of_salvation/#first-encounter-escape-the-consacrated-mind)
 - [Secret Chest #1](https://ghostiespook.github.io/raids/garden_of_salvation/#optional-secret-chest-1)
+- [Second Encounter]()
+- [Third Encounter]()
+- [Secret Chest #2]()
 
 ![garden_of_salvation](/assets/img/garden_of_salvation.jpg)
 ### Introduction
@@ -146,3 +149,112 @@ Tip: You can jump to allow you to maintain contact with teammates when tethering
 Right at the start of the first platforming section, turn left and follow the tree branches until you find an elevator platform slightly to your right. Right in front of it, near the bottom of the wall is a small hole you can fit through that holds the first secret chest. Both of the secret chests can drop raid loot, but this one only will if you have already completed the raid once. Otherwise, it'll drop raid mods (Which are still really handy!).
 
 [![Secret Chest #1](http://img.youtube.com/vi/Oq8mAr3Dw9k/0.jpg)](http://www.youtube.com/watch?v=Oq8mAr3Dw9k "Destiny 2 - Garden of Salvation - Secret Chest! Jumping Puzzle Chest - RAID MODS")
+
+### Second Encounter (Lure Out the Consacrated Mind)
+
+Every single encounter after the first is simple to explain.
+
+
+
+Every small circle in the map denotes a portal, every big circle with an "X" in the middle denotes a conflux / relay, hard lines denote barriers or gates and every square in the map denotes a tether box. Every conflux except the spawn one is initially guarded by two Barrier Hobgoblins and an Angelical, so pack heat and use Anti-Barrier rounds on your Recluse! Kill the goblins to start the encounter.
+
+You'll see the goblins sacrificing themselves at the start of the encounter. From now on, enemies will try to sacrifice at confluxes; stop it at all costs since it will most likely result in a wipe. Go to the front of the conflux and kill an Angelical to unlock the tether box, then tether back to the conflux with all 6 members of your fireteam to get the "Enlightened" buff, which lasts ~45 seconds. Enemies with white shields will start spawning, and you need to have the buff to break the shields! Know that one shot will do the trick though, so if you are running low on the buff and backup is underway, just break the shields first before killing the enemies... that's the encounter.
+
+No, seriously, all you have to do is take the 4 confluxes and defend them. Nothing fancy happens other than the need to refresh the buff and occasionally kill Angelicals, and there IS a second phase, which is even easier and I'll talk about right now.
+
+Once everyone has defended their confluxes for a while (The trigger seems to be everyone killing their second Angelical), the gates to the middle room will open and everyone must abandon their confluxes and run there. There, you will find a copper tunnel and another tether box, tether everyone again and rebuff. What's not included in the map are small holes on the 4 triangles that divide the map, in which Angelicals will spawn. Several will spawn at once, so just kill them. "Supplicants" will also start spawning, they're literally just suicide Harpies. Kill them and you'll be done in a minute or so.
+
+![Second Encounter](/assets/img/gos_second_encounter.jpg)
+
+**Strategy**
+
+For this encounter, you won't have any teams, so it's important that everyone can hold their own. You're going to have 2 people who stay on the first conflux to kill the Angelical and rebuff, and the other 4 are going to start running left and clearing out every conflux. Once the left one is cleared, one of the two people from the first conflux will move there. After the top is cleared, the 4 people will buff and one will stay there. After they clear the right conflux, they will buff again and one person will stay there.
+
+The two remaining people are roamers. One will stick to the right conflux and one will stick to the left conflux, using the portals to quickly teleport to their positions. You can have Left help Top and Right help Bottom or Right help Top and Left help Bottom, whatever works best for you. Basically, the original 4 people are going to guard their confluxes and stop enemies from sacrificing themselves and call out when they need to rebuff or when an Angelical spawned. Then, the roamer that is helping their position will use the teleporters to move there, help them kill the Angelical and/or rebuff. That's it.
+
+Do this for like 2 minutes, move to the center, kill everything there for 2 more minutes and you're done! A tether box will spawn opposite to the copper tunnel and it'll be time to start the third encounter.
+
+### Third Encounter (Slay the Consacrated Mind, Sol Inherent)
+
+This one is even easier than the last one... in theory. The mechanics are simple and there's little to get confused about, but the execution can be kinda iffy. Tether from the new box into the conflux to start the encounter... and make sure to not stand near the conflux, or else this will happen.
+
+
+
+The mechanics for this fight are super simple, divide your fireteam into 2 teams of 3 again, this time there'll be no need to switch if your team is good enough. The boss will go around shooting Overcharges (again), so one team is going to deal with that while the other team does the mechanic for this encounter. What's that encounter? Literally gambit.
+
+Orientating yourselves with the copper tunnel as "top" or "front", the 4 old confluxes from the last encounter will be top left, top right, bottom left and bottom right, and a giant beam of light will come out from one of them; that's the one you gotta defend. In the same side as the conflux, a yellow health minotaur will spawn, and killing him will drop 5 motes, which will be displayed with a buff and a timer (No clue what happens if the timer runs out, I assume you lose the motes, so don't take too long).
+
+Once you bank the motes in the designated conflux, you'll get the "Enlightened" buff and be able to destroy the shields from the enemies attacking the conflux. These enemies will try to sacrifice at the conflux and they will take away 5 motes FROM the conflux per sacrifice, and WIPE if you don't have any. Your goal is to deposit 30 motes to start the damage phase and finally kill this mother♥ing Harpy that has been bothering you for 3 encounters now.
+
+While the mote team is collecting motes and protecting the conflux, the other team (I'll just call them "charge" team) will be disarming the Overcharges. If you take too long, you can have people from the teams switch to get the Overcharge, I'll get into that later. However, now there's a new mechanic: Once someone picks up a charge, they will be trapped and the Consacrated Mind will prepare a killing blow that will kill the trapped person in 5 or so seconds. The Mind will open up, displaying 6 eyes, of which 3 will light up. These will always light up in a specific order, "inner" or "outer".
+
+
+
+Notice how inner is always closer to the main body.
+
+The person trapped on the inside will call out this order and shoot the top eye. One person from the outside will be standing left and the other will be standing right, and each will shoot their respective side. The callout is important, however, because everyone on the outside is going to see all eyes open, and shooting the wrong ones will result in death. Once the correct eyes are shot, the person that was trapped earlier will be released.
+
+After 30 motes have been deposited, a message will pop up and the Mind will start going to the mote conflux. When there, ALL of its eyes will light up, including the ones that shoot at you (as seen above), shoot them all out or you will wipe. After that is done, its head will turn into a giant white crit spot crystal and the boss will start running away; follow the Mind and unleash everything you got in it and then go back to your teams. Rinse and repeat until the Consacrated Mind is dead.
+
+Important note! Keep in mind that the mote conflux will change locations after every damage phase! And also, if you take too long (Boss survives 3 damage phases), the boss will enrage. A warning pops up right on your face, it's hard to miss, but I don't know how enraging works in D2, so it's best just to avoid it.
+
+The boss was glitched in the screenshot, but that's how its weakspot looks.
+
+![Boss Weak Spot](/assets/img/gos_third_encounter.jpg)
+
+**Strategy**
+
+So, you already have everyone divided into teams and they all know what to do. For the charge team... that's all they have to do. Of course, they can't hold charges for too long, but it'll suffice for a good team until the damage phase. For the mote team, they can divide pickup in two ways: 5 10 10 5 or 10 10 10. In the first one, the first member picks 5 motes, the second picks 10, the third picks another 10 and the first one picks 5 again. This is a safe strategy since it allows you to have the enlightened buff to defend the conflux earlier. The 10 10 10 strategy is pretty self-explanatory.
+
+A good pace would be the first person picks up their motes, the second comes around the time they're running out of Enlightened, the third comes around when they're halfway through the first comes back some 10 seconds after for the damage phase. Everyone should get around for the damage phase ASAP, but you should have enough time for everyone to get there and buff since you still have the eye phase to do.
+
+What I said earlier about switching, if the mote team chooses not to sacrifice, one member of the mote team who currently has no motes can switch with the person with the longest timer on their Overflow and tell them how many motes they need. The problem with this is that it requires pretty damn good communication, and considering that you have 6 revive tokens and that a sacrifice nets you at least 2 Overcharges, it's more worth it to just sacrifice someone to get the Overcharge.
+
+This encounter has a TON of ads, so if you're in the middle and not killing a Minotaur, kill ads, whatever your team is. Make sure to not melee or finisher the minotaurs if you're not the next one picking motes.
+
+For the damage phase, the boss will wiggle a little, so make sure to pay attention if you're using the Whisper. A good set of buffs for the damage phase is a Shadowshot + Ward of Dawn + Well of Radiance, preferrably with Lunafaction. You can maybetake away the Shadowshot slap a Tractor Cannon or Divinity in there for more damage, but I don't know if the bonus damage from having one more Celestial Nighthawk shot will outweight the damage loss from having one less Whisper or Izanagi's.
+
+Before I finish - the damage phase should be enough for at least one person to cool down on their Overflow, but you can also just switch up the entire teams if you so wish, just keep in mind that it's more complicated and you shouldn't need to do it anyways.
+
+Once the boss is dead, proceed through the copper tunnel: Follow ahead into the portal if you don't care about the chest, turn left immediately after you're on the same platform as the big portal if you do.
+
+### (Optional) Secret Chest #2
+
+Once you are in the same platform as the main portal, turn left. You'll know you're in the right platform if you see a portal right below the platform, hooked to a wall.
+
+You'll see a giant void and a small path you can follow, just keep on going. The path is very straight forward until you reach a giant spinning wheel with transparent handle thingies. If you wish, I'm sure there are easier ways to do it if you keep following the path, but we're stopping there.
+
+![Secret Chest #2](/assets/img/gos_secret_chest_2_1.jpg)
+
+As one of the two segment handles is coming up, jump on top of the second segment (Furthest from the center) and stay near the edge. As the wheel turns, try to get on the little piece of stable ground at the very tip of the segment. If you slide, just jump into one of the two higher up platforms in front of you and follow the path.
+
+If you don't, you should be seeing something like this:
+
+[Secret Chest #2](/assets/img/gos_secret_chest_2_2.jpg)
+
+Here's a video guide following a slightly different, safer route.
+
+[![Secret Chest #2](http://img.youtube.com/vi/YsqnlK1_i54/0.jpg)](http://www.youtube.com/watch?v=YsqnlK1_i54 "Destiny 2 - Garden of Salvation 2nd secret raid chest")
+
+Follow all the way up and you'll find your new wallpaper... after you kill all the Harpies, of course. Follow to the right into the cave marked below:
+
+[Secret Chest #2](/assets/img/gos_secret_chest_2_3.jpg)
+
+Once you're in, don't die to the trillion harpies following you, jump on the tree stump to the left, jump ahead and grab your secret chest.
+
+[Secret Chest #2](/assets/img/gos_secret_chest_2_4.jpg)
+
+I honestly don't know the way out from there exactly, but you have to parkour around tree branches in the cave with vex milk, there's an exit from the one you're in that leads there.
+
+Take some nice screenshots and proceed into the next encounter.
+
+![The Garden 1](/assets/img/the_garden_1.jpg)
+![The Garden 2](/assets/img/the_garden_2.jpg)
+![The Garden 3](/assets/img/the_garden_3.jpg)
+![The Garden 4](/assets/img/the_garden_4.jpg)
+
+### (1/2) - Fourth Encounter (Slay the Sanctified Mind, Sol Inherent)
+
+Before we start, I'd like to point this out: This is by far the hardest part of the entire raid and if you don't have at least 4 people on your team with Whisper or Izanagi's, this one is gonna be very long.
+
+You'll start on a completely different area with all of your 6 teammates cramped into a small space with a raid banner space, a platform up ahead and a giant Vex. It looks something like this, though the boss probably won't be awake if your team isn't full of flustered idiots.
