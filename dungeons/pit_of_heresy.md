@@ -8,7 +8,7 @@ nav_order: 1
 <div style="page-break-inside:avoid" markdown="1">
 
 **Fast travel area:**
-[First Encounter]()
+[First Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#necropolis---first-encounter)
 [Second Encounter]()
 [Third Encounter]()
 [Fourth Encounter]()
@@ -17,7 +17,7 @@ nav_order: 1
 </div>
 <div style="page-break-inside:avoid" markdown="1">
 
-## Necropolis - First encounter
+## First encounter - Necropolis
 
 The first encounter is all about matching the correct runes and utilising a relic to defeat enemies with unique interactions. There are several towers built in to the face of the mountain in the first area. Each tower has a Hive rune on top that's used to navigate this stage. 
 
@@ -35,7 +35,7 @@ Credits for symbol images: [https://errata.ishtar-collective.net/the-hive-langua
 </div>
 <div style="page-break-inside:avoid" markdown="1">
 
-## Tunnels of Despair - Second encounter
+## Second encounter - Tunnels of Despair
 
 Collect your loot and continue until you see a wall of doors. Ignore the vast array of doors and look for a hole in the wall to head just off to the right of the broken bridge on which you're standing. 
 
@@ -62,7 +62,7 @@ My team worked on rotation: we stationed one of us outside the door to kill adds
 </div>
 <div style="page-break-inside:avoid" markdown="1">
 
-## The Harrow - Fourth Encounter
+## Fourth Encounter - The Harrow
 
 Now you're met with a jumping puzzle and another set of runes protecting another door. This time you need to carefully jump around the ledges and platforms within the area while looking for more towers with runes that match those on the new door.
 
@@ -76,7 +76,7 @@ Credits: [https://www.reddit.com/r/DestinyTheGame/comments/dpkc4c/here_is_a_map_
 </div>
 <div style="page-break-inside:avoid" markdown="1">
 
-## Final phase
+## Final Phase - Boss
 
 The fifth and final phase of the Pit of Heresy is a big ol’ boss phase that recalls some of the previous encounters. You need to kill Knights for relics and dunk more void orbs, all while the dungeon boss rains down projectiles. 
 
