@@ -70,7 +70,7 @@ This gun is too much of a beast to use anything else, although another void ener
 Here you have a few choices. If you are using Izanagi's, you can use any grenade launcher with spiked grenades or a maybe a good machine gun such as 21% Delirium and Hammerhead.
 ![Whisper](/assets/img/whisper_of_the_worm.jpg)
 If you don't, this will be your main damage weapon: the Whisper of the Worm.Even without the catalyst, this weapon provides a very good amount of DPS without the need to reload, making it optimal for bosses and tough enemies alike. Another choice if you don't have the Whisper is the D.A.R.C.I., though it has lower sustained DPS.
-![D.A.R.C.I.](darci.jpg)
+![D.A.R.C.I.](/assets/img/darci.jpg)
 Overview
 
 Best Loadout: Izanagi's Burden / Recluse / Spiked Grenades Grenade Launcher
