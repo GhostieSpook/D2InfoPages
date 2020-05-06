@@ -11,6 +11,7 @@ nav_order: 7
 - [Introduction]()
 - [Loadouts]()
 - [First Encounter]()
+- [Secret Chest #1]()
 
 ![garden_of_salvation](/assets/img/garden_of_salvation.jpg)
 ### Introduction
@@ -83,3 +84,61 @@ Third Best Loadout: Kinetic Sniper (Preferrably with Firmly Planted) / Recluse /
 With loadouts done, you're ready to begin the raid, clear out a few ads, go through the portal and proceed into the first encounter.
 
 ### First Encounter (Escape the Consacrated Mind)
+
+Here, you will find a giant Harpy eating (???) a Minotaur, as well as a glowing blue box in one of 3 random spots and a "plus" sign looking box near a locked gate. This blue box is a recurring feature of this raid and shooting it will allow you to "tether". Tethering makes you unable to shoot and brings you to third person, however, it allows you to tether to other nearby teammates. The teammates you are linked to will be displayed with a blue line, that will get thinner and eventually red when you get too far and it's about to break. Tethering is also broken if line of sight is broken, so stay in your teammate's line of sight at ALL times when tethering!
+
+Each shot will activate and deactivate the box (If it's open, it's activated), and it automatically deactivates after an objective is completed. Use 3 teammates (You can use more, but you'll need to use 3 later on anyways, so better start practicing now) to tether the box to the plus sign near the gate. The plus sign will become blue and expand and the gate will open. Proceed to do this or kill the Minotaur (Which I do not recommend) to get respawn restricted and start the encounter.
+
+![First Encounter](/assets/img/gos_first_encounter.jpg)
+
+The Mind will wake up and start firing at you, though it deals little damage. It will also constantly spawn Fanatics and orange bar Minotaurs throughout the fight, so make sure to clear them. After a gate is opened, two cyclopses will spawn in the current room.
+
+- In the first room, they're near the pillars next to the raid banner area.
+- In the second room, they're on top of the big pillars in front of the gate.
+- In the third room, one will already be there and is to the left of the second gate, kinda far away. The rest are random: One is in front of the fourth gate, another is around halfway through the room and the last is next to the last one.
+- In the fourth room, there's only one and it will already be there when the gate is opened, immediately above the gate to the third room, on top of a platform.
+
+In the room the boss is currently in, they will continuously shoot "Voltaic Overcharges", approximately one every 30 seconds. They are white squares that look kinda like an oracle and have a grenade marker on them. If you do not pick one up within 5 or so seconds, you WIPE. After picking a charge up, you'll get a debuff called a "Voltaic Overflow", which lasts 2:30 and prevents you from picking up another Overcharge without dying. Dying gets rid of the debuff, and considering you have 6 revive tokens per attempt per encounter, it's worth it to sacrifice yourself or a teammate to get it if nobody else can to prevent a wipe.
+
+After killing every enemy in the next room (Every room has a Disruptive Minotaur, so make sure to put Overload rounds on your Recluse!), a yellow health Hydra named "Angelical" will spawn. They will appear in every encounter except the third and their purpose is consistent: Unlocking the tether boxes. If you look closely, every room has a tether box and a plus sign next to the gate, however, the boxes are always protected by a transparent blue square. Killing the Angelicals gets rid of this square and allows you to tether to the next plus sign. You will only need 3 people for most tethers, but you will need 4 for the last. Their locations are:
+
+**First Room**
+
+Obvious enough, you can tether before you start the encounter.
+
+**Second Room**
+
+In the middle of the stairs, you might need 4 people to tether this one.
+Right in front of the top of the stairs, right below a platform near a corner.
+To the right of the gate, on top of a platform.
+
+**Third Room**
+
+To the right at the very end of the room, right below the platform.
+Near the end of the room, at the fracture dividing the left and right of the room, near the tree branch.
+
+**Fourth Room**
+
+All three tethers are immediately visible. Only one will be active at a time and it will start with the right one. Requires 4 people to tether.
+
+After opening a gate (with the exception of the very first one), the boss will teleport to the next room and continue shooting Voltaic Overcharges there. When you link the first tether in the fourth room, the boss will teleport away to behindthe locked gate there and won't shoot any Overcharges. You do not have to link the other two tethers, as the gate opens automatically after 1 minute. Use this time to rest and cool down on your Voltaic Overflows. After the gate opens, the boss will teleport away and to the immediate right will be a huge open corridor full of cyclopses and two Disruptive Minotaurs. The boss will shoot one Overcharge and teleport a bit further away, shooting two or three times (Don't remember exactly, but it's ok to sacrifice yourself since this is the last stretch) before retreating into the ether and completing the encounter.
+
+**Strategy**
+
+Divide your fireteam into two smaller teams of 3. One is the "go" team, and one is the "stay" team. The "go" team will proceed into the next room and tether the next gate, while the "stay" team will stay with the boss and clear out ads and get Overcharges.
+
+Remember what I said about the Voltaic Overflow lasting for 2:30 minutes and the boss shooting an Overcharge every 30 seconds? If you do the maths, that means that if nobody dies, you will always have at least one person who's able to get an overcharge. Which means that you will have to rotate teams as the encounter goes on.
+
+![Rooms](/assets/img/gos_rooms.jpg)
+
+Following that scheme, you'll be able to get through most of the encounter, but I'll talk about some specifics. In the first room, the first person to get an overcharge should bolt out of there and go help the "go" team with ads, since if you follow the strategy above and don't clear out the second room fast, you're bound to run into problems. The second person shouldn't leave, since the last person remaining could get overwhelmed with ads.
+
+After the gate on the second room is open, if you have a Sentinel titan on the new "go" team (Team A in the scheme), make sure they pop their super and kill as many ads as they can, especially the cyclops and the hobgoblins in front! Another choice is just to use the Ward of Dawn kinda far back, or both, your choice. Ideally, one person should stay near the back of the third room not only to pick ads from afar with a sniper, but also to help kill the Cyclopses that are about to spawn on the second room. You can rotate people from both teams in the second and third room if you need someone to pick the Overcharge.
+
+For the fourth room, whoever picks up the buff first on the third room should go help out with the fourth, and you can also rotate between yourselves. On the last stretch, make sure EVERYONE is using a sniper to kill out the cyclopses and designate people to go pick up the Overcharges. As long as one person finishes alive, you win, which means dying to the Overcharge is fine, but not dying before reaching the Overcharge due to the ads. This one takes a bit of practice and I can't really explain it too well over text, but popping roaming supers and rushing in (Middle tree nightstalker is a good one for here as well as the rest of the encounter) is the safest method.
+
+Finish the fight, grab your loot and jump on the chasm in front of you.
+
+Tip: You can jump to allow you to maintain contact with teammates when tethering. Use this to your advantage!
+
+### (Optional) Secret Chest #1
