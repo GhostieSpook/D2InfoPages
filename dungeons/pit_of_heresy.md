@@ -7,7 +7,7 @@ nav_order: 1
 
 <div style="page-break-inside:avoid" markdown="1">
 
-__**Fast travel area:**__
+**Fast travel area:**
 [First Encounter]()
 [Second Encounter]()
 [Third Encounter]()
