@@ -10,6 +10,7 @@ nav_order: 7
 (Click on a link to fast travel to the wish.)
 - [Introduction]()
 - [Loadouts]()
+- [First Encounter]()
 
 ![garden_of_salvation](/assets/img/garden_of_salvation.jpg)
 ### Introduction
@@ -31,7 +32,7 @@ Corrections
 ### Loadouts
 If you're new to this game, know that team composition rarely matters. Every class is good enough to do anything on their own and you will likely get at least one of each in a raid, even if you're doing a completely random LFG, so I will be assuming you have at least one of each class and not be touching on that topic much.
 
-Hunter
+**Hunter**
 
 As a hunter, you have two options. Your first one is to run a top tree (Way Of The Trapper) Nightstalker with Orpheus Rigs. With your invisibility roll and Shadowshot, you can easily clear out ads and safely deposit motes and link tethers whenever needed. You can use The Sixth Coyote for more invisibility on the first two encounters, but you should use Orpheus for the third and fourth so you can shoot the bosses with your Shadowshot and give you entire team a nice damage buff. You should be using this during the first two encounters and you should have at least one hunter using this during the boss encounters.
 
@@ -39,11 +40,11 @@ Your other option is to run a bottom tree Gunslinger (Way Of The Sharpshooter) w
 
 Marksman's Dodge so you can quickly reload!
 
-Warlock
+**Warlock**
 
 Only one choice here, really: Middle tree Dawnblade (Attunement of Grace) with a healing rift and Lunafaction (if you have it). Teammates need healing? Rift. More healing? Nade. Damage phase? Well of Radiance. Simple enough, right? Use your Well during damage phases to give your team a nice boost to survivability and damage.
 
-Titan
+**Titan**
 
 Also only one choice here: Top tree Sentinel (Code of the Protector) with Rally Barricade. During ad clearing phases and encounters, you can use your shield to be a good tank and clear out a good portion of ads, and during damage phases, your Ward of Dawn and Rally Barricade will seriously help your team with DPS, just make sure that you're not placing them in a terrible spot!
 
@@ -51,14 +52,33 @@ Optimal General Loadout
 
 Remember that you CAN use anything and A LOT of weapons have as much DPS as you need for the raid, but these are the optimal loadouts for the best versatility and DPS.
 
-Kinetic / Primary
+**Kinetic / Primary**
 
 Here you have plenty of choices! Any good weapon with a good roll is good for here, but a kinetic sniper with Firmly Planted is an amazing choice for DPS as well as killing Cyclopses and tough enemies, making it the second best choice for the slot. What's the best, then? Well...
 ![Izanagi's Burden](/assets/img/izanagis_burden.jpg)
 
 If you have Izanagi's Burden, chambering the 4 shots with all of the aforementioned buffs is the highest DPS in the entire game, so it's an obvious pick for the kinetic slot, especially if you have the catalyst.
 
-Energy / Secondary
+**Energy / Secondary**
 
 Recluse with Overload (First encounter) or Anti-Barrier (Second, third and fourth encounters) rounds, no choice here.
 ![Recluse](/assets/img/recluse.jpg)
+This gun is too much of a beast to use anything else, although another void energy weapon with a good roll can kinda make up for it. It has to be void because of shields, though, so honestly just farm for the Recluse, it's not that hard. Your Vex and ad killing machine.
+
+**Heavy**
+
+Here you have a few choices. If you are using Izanagi's, you can use any grenade launcher with spiked grenades or a maybe a good machine gun such as 21% Delirium and Hammerhead.
+![Whisper](/assets/img/whisper_of_the_worm.jpg)
+If you don't, this will be your main damage weapon: the Whisper of the Worm.Even without the catalyst, this weapon provides a very good amount of DPS without the need to reload, making it optimal for bosses and tough enemies alike. Another choice if you don't have the Whisper is the D.A.R.C.I., though it has lower sustained DPS.
+![D.A.R.C.I.](darci.jpg)
+Overview
+
+Best Loadout: Izanagi's Burden / Recluse / Spiked Grenades Grenade Launcher
+
+Second Best Loadout: Kinetic Sniper (Preferrably with Firmly Planted) / Recluse / Whisper of the Worm
+
+Third Best Loadout: Kinetic Sniper (Preferrably with Firmly Planted) / Recluse / D.A.R.C.I.
+
+With loadouts done, you're ready to begin the raid, clear out a few ads, go through the portal and proceed into the first encounter.
+
+### First Encounter (Escape the Consacrated Mind)
