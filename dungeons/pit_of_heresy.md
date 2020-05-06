@@ -8,11 +8,11 @@ nav_order: 1
 <div style="page-break-inside:avoid" markdown="1">
 
 **Fast travel area:**
-[First Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#necropolis---first-encounter)
-[Second Encounter]()
-[Third Encounter]()
-[Fourth Encounter]()
-[Boss Encounter]()
+[First Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#first-encounter---necropolis)
+[Second Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#second-encounter---tunnels-of-despair)
+[Third Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#third-encounter)
+[Fourth Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#fourth-encounter---the-harrow)
+[Boss Encounter](https://ghostiespook.github.io/dungeons/pit_of_heresy/#final-phase---boss)
 
 </div>
 <div style="page-break-inside:avoid" markdown="1">
@@ -51,7 +51,7 @@ Credits: [https://www.reddit.com/r/raidsecrets/comments/dpjs31/tunnels_of_despai
 </div>
 <div style="page-break-inside:avoid" markdown="1">
 
-# Third encounter
+## Third encounter
 
 The third encounter in the Destiny 2 Pit of Heresy is largely a wave defence activity with a debuff mechanic. There’s a large wall protected by six Hive runes in the centre of the room. Your goal is to destroy them.
 
