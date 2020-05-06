@@ -8,10 +8,10 @@ nav_order: 7
 ## Garden of Salvation (Full Raid Guide)
 
 (Click on a link to fast travel to the wish.)
-- [Introduction]()
-- [Loadouts]()
-- [First Encounter]()
-- [Secret Chest #1]()
+- [Introduction](https://ghostiespook.github.io/raids/garden_of_salvation/#introduction)
+- [Loadouts](https://ghostiespook.github.io/raids/garden_of_salvation/#loadouts)
+- [First Encounter](https://ghostiespook.github.io/raids/garden_of_salvation/#first-encounter-escape-the-consacrated-mind)
+- [Secret Chest #1](https://ghostiespook.github.io/raids/garden_of_salvation/#optional-secret-chest-1)
 
 ![garden_of_salvation](/assets/img/garden_of_salvation.jpg)
 ### Introduction
@@ -142,3 +142,7 @@ Finish the fight, grab your loot and jump on the chasm in front of you.
 Tip: You can jump to allow you to maintain contact with teammates when tethering. Use this to your advantage!
 
 ### (Optional) Secret Chest #1
+
+Right at the start of the first platforming section, turn left and follow the tree branches until you find an elevator platform slightly to your right. Right in front of it, near the bottom of the wall is a small hole you can fit through that holds the first secret chest. Both of the secret chests can drop raid loot, but this one only will if you have already completed the raid once. Otherwise, it'll drop raid mods (Which are still really handy!).
+
+[![Secret Chest #1](http://img.youtube.com/vi/Oq8mAr3Dw9k/0.jpg)](http://www.youtube.com/watch?v=Oq8mAr3Dw9k "Destiny 2 - Garden of Salvation - Secret Chest! Jumping Puzzle Chest - RAID MODS")
