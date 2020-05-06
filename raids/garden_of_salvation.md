@@ -230,19 +230,19 @@ As one of the two segment handles is coming up, jump on top of the second segmen
 
 If you don't, you should be seeing something like this:
 
-[Secret Chest #2](/assets/img/gos_secret_chest_2_2.jpg)
+![Secret Chest #2](/assets/img/gos_secret_chest_2_2.jpg)
 
 Here's a video guide following a slightly different, safer route.
 
-[![Secret Chest #2](http://img.youtube.com/vi/YsqnlK1_i54/0.jpg)](http://www.youtube.com/watch?v=YsqnlK1_i54 "Destiny 2 - Garden of Salvation 2nd secret raid chest")
+![![Secret Chest #2](http://img.youtube.com/vi/YsqnlK1_i54/0.jpg)](http://www.youtube.com/watch?v=YsqnlK1_i54 "Destiny 2 - Garden of Salvation 2nd secret raid chest")
 
 Follow all the way up and you'll find your new wallpaper... after you kill all the Harpies, of course. Follow to the right into the cave marked below:
 
-[Secret Chest #2](/assets/img/gos_secret_chest_2_3.jpg)
+![Secret Chest #2](/assets/img/gos_secret_chest_2_3.jpg)
 
 Once you're in, don't die to the trillion harpies following you, jump on the tree stump to the left, jump ahead and grab your secret chest.
 
-[Secret Chest #2](/assets/img/gos_secret_chest_2_4.jpg)
+![Secret Chest #2](/assets/img/gos_secret_chest_2_4.jpg)
 
 I honestly don't know the way out from there exactly, but you have to parkour around tree branches in the cave with vex milk, there's an exit from the one you're in that leads there.
 
@@ -258,3 +258,116 @@ Take some nice screenshots and proceed into the next encounter.
 Before we start, I'd like to point this out: This is by far the hardest part of the entire raid and if you don't have at least 4 people on your team with Whisper or Izanagi's, this one is gonna be very long.
 
 You'll start on a completely different area with all of your 6 teammates cramped into a small space with a raid banner space, a platform up ahead and a giant Vex. It looks something like this, though the boss probably won't be awake if your team isn't full of flustered idiots.
+
+![Fourth Encounter](/assets/img/gos_fourth_encounter.jpg)
+
+And here's a very crudely drawn map of the encounter that I made specifically for this guide. It's mostly accurate, but what's important is that you have an idea of everything.
+
+![Boss](/assets/img/gos_boss.jpg)
+
+**Caption**
+
+- Blue Boxes - Left Mote Conflux
+- Orange Boxes - Right Mote Conflux
+- Left Arrow - Weakspot that opens portal to left motes island.
+- Right Arrow - Weakspot that opens portal to right motes island.
+- Black Lines - Surrounds ground, elevation not considered.
+- Green Mark on Boxes - This will always be the first conflux.
+- Red Lines and Numbers - Parts of the map.
+- Purple Numbers - Tether boxes that rebuild the corresponding part of the map.
+
+**Real Callouts**
+
+1. Top Middle
+2. Back Middle
+3. Top Left
+4. Back Left
+5. Top Right
+6. Back Right
+7. Far Right (do not discard this one as useless)
+8. Far Left (do not discard this one as useless)
+
+Shoot the boss once with any weapon to start the encounter. The boss will wake up and start shooting you, some ads will spawn as well. Take this time to explore the area, kill the ads and take note of the locations of the active confluxes. This time, there's a normal one (left) and an orange one, (right) and each has a tether box above them. Your goal is to deposit 30 motes on EACH conflux to trigger the pre-damage phase.
+
+After a while, an Angelical will spawn and lock the tethers, and two glowing red weakspots will show up on the boss, one on the left foreleg and one on the right shoulder. Destroying one of these will do the following:
+
+- The red orbs from the weakspots will fall into lake and open up a portal to an island that will allow you to get motes, the type depending on the portal. It doesn't last long, so be quick it you're going in!
+- A cyclops will spawn on the far away platform of the corresponding side (Far left / right and to the front).
+- Any players already on an island will be brought back to the spawn platform.
+- The boss will charge an attack that will remove one of the 8 parts of the main platform marked above. A red outline will show up around it and you will die if you stand near the ground of that platform.
+- The destroyed weakspot will disappear and regenerate after around 20 seconds.
+
+The foreleg weakspot will open a blue portal that will bring you to the left island where you'll be able to collect normal motes for the left conflux.
+
+The shoulder weakspot will open an orange portal that will bring you to the right island where you'll be able to collect tainted / orange motes for the right conflux.
+
+After the first mote(s) is (are) deposited, the person(s) depositing will get the "Enlightened" buff for 1 minute and shielded ememies will start to spawn and try to sacrifice themselves at either conflux. Each island will spawn a certain set of enemies, as seen below: (Keep in mind that both islands have a set layout).
+
+**Type 1**
+
+- Goblins (1 Mote)
+- One Minotaur (3 Motes)
+
+Total: 15 Motes
+
+**Type 2**
+
+- Harpies (1 Mote)
+- Hobgoblins (2 Motes)
+
+Total: 18 Motes
+
+![Fourth Encounter](/assets/img/gos_fourth_encounter_2.jpg)
+
+Nice sight from the left island.
+
+Once a conflux is full, ads won't be able to sacrifice at them. Back to the main platform, you'll be losing parts of the platform to stand on, bit by bit until you have none left. There IS a way to rebuild them, however. In the map, I marked with purple numbers all of the plus signs and the parts they're related to. They will only appear if its part has been destroyed, and tethering to them with either conflux will create that red outline around the part again and will rebuild it shortly. You'll still die if you're standing on the ground near it, though, so... don't.
+
+After enough time has passed, or after you have both confluxes full, the pre-damage phase will start. The boss will hold forth a plus sign with the color of the tether you need to link to it. An Angelical will spawn and lock your tethers and a bunch of ads will spawn as well. The sign gets brighter over time and will eventually wipe (I think??? There's a lot of time to do it and it's hard to ♥♥♥ up) your team if you don't tether with the correct color (I think tethering with the wrong one just makes you lose the damage phase).
+
+After that, more ads will spawn and the boss will show a crit point on its belly, shoot it. The boss will then start floating shortly after, and a BLUE plus sign will appear, then tether again with the conflux OPPOSITE of the first, even if it was originally blue (left). You only have around 5 or so seconds to do it or you will lose a significant portion of your damage phase. If you tether successfully, he'll walk around a bit, float again with no way to tether and then become invulnerable again. Use this time to damage him, rinse and repeat until he's dead.
+
+One last thing, tethering with a conflux that's NOT full will successfully tether, but not trigger the crit point to appear and continue the fight as usual.
+
+### (2/2) - Fourth Encounter Strategy
+
+A few things before we start, to make this a lot quicker:
+
+- The second person to bank their motes will always shoot the Cyclopses while the first person is banking.
+- Only build after all ads are clear, but be quick and try to get at least two builds done before more.spawn.
+- Angelicals are a TOP priority, take them down at all costs.
+- If more than three goblins sacrifice during a cycle, just wipe. Same if you're taking too long, wipe earlier rather than later.
+- If you take too long, don't have enough motes on only one conflux and don't want to wipe, you can still get the first damage phase tether and just deal damage there, assuming it matches the conflux's color.
+- If you miss a few reasons for whatever reason and don't get Type 2 (Harpies + Hobgoblins), Team 1 should jump back in immediately after Team 2 is back and be brought back ASAP when they have the motes.
+- Builders should always call out when and where they're building so that nobody else gets tethered and your rebuild turns into a team effort to untie a knot.
+- You can miss a few motes if you get Type 2s.
+- Don't be afraid to bring back your teammates earlier if you need someone with the Enlightened buff!
+- If you're late to an island portal and it disappears, keep running into it! There seems to be a weird bug where the teleport will stay for a little bit after the portal has visually closed.
+- Keep in mind that the boss takes away platforms every time you destroy his weakspot, and not every time someone goes in/out of the islands, so you can save your builders trouble by not taking too long.
+
+![Fourth Encounter](/assets/img/gos_fourth_encounter_3.jpg)
+
+Tethering done right.
+
+First, divide your fireteam into 3 teams of 2. Team 1, Team 2 and Builders, and assign each of them to a side; it'll be important later. You'll be doing two 15 15 runs: Team 1 will jump in first, get their motes, and come back. At the same time that they come back, Team 2 will go in while builders are at work rebuilding all of the lost platforms. After Team 2 is back, the shoulder weakspot should be broken and Team 1 will go into the portal, etc.
+
+Once both confluxes are completely full, divide your team into left and right as I instructed earlier and kill the Angelical and ads. Only after the ads are dead, tether the first conflux to the boss. The team that tethered should start doing DPS without using their supers just yet, and the other team must wait a little and hastly tether again. A good trick is to have everyone except the last person (person who's tethering to the boss) in position and have them only come in for when the boss is already available for tether to avoid dying. After that, everyone should gather up in a pre-designated spot, pop their supers and go ham on the boss.
+
+I feel like it's also worth mentioning a strategy in which only one teams tethers and the other team is constantly on DPS. This nets you more damage per phase, but I found that we wiped a lot because the person in front was getting shot at my literally 10 Goblins at once and had no way to regenerate efficiently between both tethers. If you want, you can have a team composition set up in a way that allows both teams to use a Well of Radiance + Ward of Dawn and save additional buffs for when both teams are on DPS, or maybe even one of the two I just talked about.
+
+Anyways, after the boss is dead, drop down from the hole that just opened, collect your loot and you're done!
+
+![End Chest](/assets/img/gos_end_chest_1.jpg)
+![End Chest](/assets/img/gos_end_chest_2.jpg)
+![End Chest](/assets/img/gos_end_chest_3.jpg)
+![End Chest](/assets/img/gos_end_chest_4.jpg)
+
+Pro tip: The right side tether is a mix of orange and black and doesn't change in shape or color when about to snap. Use that to orientate yourself and be mindful of your tether range!
+
+**Overview**
+
+Overall, I don't think this is a particularly "hard" raid, but it's definitely one that requires a lot of communication. The final boss is definitely the hardest part and he's actually really painful to do with a less-than-exceptional team. This raid is very high quality, though; it tried a lot of new concepts and executed them in a fun and creative manner, such as the tether and Voltaic Overflow mechanics.
+
+As for loot, 90% of what you get from this raid is good. I'm pretty sure exotics can drop, but they're still not very common. I think that the only weapon you really don't wanna get is the bow, because well, it's a bow (though it's one of, if not the best in the game with a good enough roll). The pulse rifle, auto rifle and sniper are definitely the highlights, but the armor is pretty sick and so is the hand cannon, too.
+
+![End Chest](/assets/img/gos_end_chest_5.jpg)
